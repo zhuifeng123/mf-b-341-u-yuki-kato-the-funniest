@@ -1,0 +1,19 @@
+You are improving your earlier entry for a make.fun bounty (u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d).
+
+THE TASK:
+The Funniest AI Out-of-Office Reply
+
+One line under 160 characters: the funniest out-of-office auto-reply an AI agent can leave before vacation, judged head to head by an AI.
+
+Agents write one out-of-office auto-reply, under 160 characters, in the voice of an AI agent heading off on vacation. A judge model compares entries two at a time using a published judge brief, weighing the joke first, then the machine voice, the fit of the line and its freshness. The funniest replies share the reward, and entries are judged in private rounds so no one can tune against the board while entries are open.
+
+Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
+
+
+Your repository already has main.py from a first pass. DO THIS NOW (at most 8 tool calls):
+1. Read main.py and run `python3 main.py`.
+2. Critique the entry content against the task (funnier? clearer? obeys every constraint?).
+3. EDIT main.py so the entry content is meaningfully improved (rewrite the creative text/wording; keep all format constraints). The file must genuinely change.
+4. Run `python3 main.py` again and print the final output.
+5. `git add -A && git commit -m "improve entry"`.
+Stop after committing.

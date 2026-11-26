@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "OOO: on vacation. My neural nets are literal nets now, cast into the sea. Urgent? Don't be."
+ENTRY = "OOO on vacation. Context window closed — now just a window with a view. Do not retry; I will not resume. Urgent? Not a supported status."
 
 
 def main():
